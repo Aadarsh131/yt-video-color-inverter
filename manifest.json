@@ -12,9 +12,9 @@
     "default_title": "Toggle Video Color"
   },
   "icons": {
-  "16": "dropper_16x16.png",
-  "32": "dropper_32x32.png",
-  "128": "dropper_128x128.png"
+  "16": "/icons/dropper_16x16.png",
+  "32": "/icons/dropper_32x32.png",
+  "128": "/icons/dropper_128x128.png"
 }
 }
 
