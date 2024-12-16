@@ -1,0 +1,20 @@
+{
+  "manifest_version": 3,
+  "name": "YouTube Video Color Inverter",
+  "version": "1.0",
+  "description": "Dynamically inverts colors for YouTube videos.",
+  "permissions": ["scripting"],
+  "host_permissions": ["https://www.youtube.com/*"],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_title": "Toggle Video Color"
+  },
+  "icons": {
+  "16": "dropper_16x16.png",
+  "32": "dropper_32x32.png",
+  "128": "dropper_128x128.png"
+}
+}
+
